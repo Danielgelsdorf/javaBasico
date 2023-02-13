@@ -12,17 +12,20 @@ public class Main {
 		case 11:
 			System.out.println("são paulo");
 			break;
-			case 21: System.out.println("Rio de Janeiro");
+		case 21:
+			System.out.println("Rio de Janeiro");
 			break;
-			case 32: System.out.println("Belo Horizonte");
+		case 32:
+			System.out.println("Belo Horizonte");
 			break;
 		case 19:
 			System.out.println("Juiz de Fora");
 			break;
-		case 32:
+		case 31:
 			System.out.println("Campinas");
 			break;
-			case 27: System.out.println("vitoria");
+		case 27:
+			System.out.println("vitoria");
 			break;
 		default:
 			System.out.println("ddd não cadastrado");
